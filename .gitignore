@@ -1,0 +1,11 @@
+# Folders
+.github/
+.pytest_cache/
+data/*
+*__pycache__/
+linkedin-mcp-server/
+
+
+.env
+*.code-workspace
+*.ini
